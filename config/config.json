@@ -1,0 +1,17 @@
+{
+  "agency_did": "UNM2cmvMVoWpk6r3pG5FAq",
+  "agency_endpoint": "https://eas01.pps.evernym.com",
+  "agency_verkey": "FvA7e4DuD2f9kYHq6B3n7hE7NQvmpgeFRrox3ELKv9vX",
+  "genesis_path": "/usr/share/evernym/genesis.txn",
+  "institution_did": "74RUmWDRsbJQRSki713PYJ",
+  "institution_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Logo-pronote-menu.png",
+  "institution_name": "david test institution v1a",
+  "institution_verkey": "4JY9LRhATFBpE6rFf9hxZsvceM43rV7LstPPgTyAZ3Du",
+  "remote_to_sdk_did": "EzxooZSAJcTipx1ehbdD9h",
+  "remote_to_sdk_verkey": "8dYj5W2kHfJv79BQGdoFia3k2WQugJcqBQzsMeKvGrMf",
+  "sdk_to_remote_did": "EUZKfFkMdLSN8QNQedHsst",
+  "sdk_to_remote_verkey": "8LyZqKNKsmoAgpXS5BpDJXT2gbnhD8V2YPDJRJrGymKp",
+  "wallet_key": "12345",
+  "wallet_name": "LIBVCX_SDK_WALLET"
+}
+

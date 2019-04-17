@@ -1,0 +1,17 @@
+{
+    "agency_did": "UNM2cmvMVoWpk6r3pG5FAq",
+    "agency_endpoint": "https://eas01.pps.evernym.com",
+    "agency_verkey": "FvA7e4DuD2f9kYHq6B3n7hE7NQvmpgeFRrox3ELKv9vX",
+    "genesis_path": "<CHANGE_ME>",
+    "institution_did": "ByrmCFBe9zMb5w7oN55RXU",
+    "institution_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Logo-pronote-menu.png",
+    "institution_name": "Acme University ",
+    "institution_verkey": "6z7LUWSSJ9fxRwnnf2oGxnrGPFfvyRB474hKiv98v1vN",
+    "remote_to_sdk_did": "Jzk3yGb1UDmGTRaahS6vTp",
+    "remote_to_sdk_verkey": "AoskXn9eNb44WNUnUb1uRybU3dxhmqMkjiFGNUUpRatc",
+    "sdk_to_remote_did": "9GgQzJXArbMTP6Ci8zLisY",
+    "sdk_to_remote_verkey": "5WScjMQSXCN18KGbVKtydqfrR2TgJuTpAa3cTHnMQais",
+    "wallet_key": "12345",
+    "wallet_name": "acme-university"
+  }
+  
